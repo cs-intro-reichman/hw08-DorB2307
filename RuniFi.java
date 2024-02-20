@@ -8,6 +8,7 @@ class RuniFi {
     
         // Creates some tracks
         Track track1 = new Track("Fernando", "ABBA", 354);
+        //System.out.println(track1);
         Track track2 = new Track("Imagine", "John Lennon", 187);
         Track track3 = new Track("Creep", "Radiohead", 369);
         Track track4 = new Track("Thriller", "Michael Jackson", 222);
